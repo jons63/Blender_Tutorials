@@ -2,9 +2,9 @@
 
 Video [Link](https://www.youtube.com/watch?v=yi87Dap_WOc)
 
-## Blender tools used
+## Blender tools used part 1
 
-| Name | shortcut |
+| Name | Shortcut |
 | - | - |
 | Move | G |
 | Move only in one direction | G + [XYZ] |
@@ -15,3 +15,15 @@ Video [Link](https://www.youtube.com/watch?v=yi87Dap_WOc)
 | Proportional Editing | O |
 | Hide | H |
 | Un-hide | Alt + H |
+
+## Blender tools used part 2
+
+| Name | Shortcut |
+| - | - |
+| Boolean Operation | Object Modifier Properties |
+| Object display options | Object Properties |
+| Knife | K |
+| Knife draw at angle | K + C |
+| Confirm knife | Enter |
+| Slide vertex | Double G |
+| Remove double vertices | A, Mesh -> Clean up -> Merge by distance |
