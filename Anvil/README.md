@@ -27,3 +27,7 @@ Video [Link](https://www.youtube.com/watch?v=yi87Dap_WOc)
 | Confirm knife | Enter |
 | Slide vertex | Double G |
 | Remove double vertices | A, Mesh -> Clean up -> Merge by distance |
+
+## Blender tools used part 3
+
+| Inset | I |
