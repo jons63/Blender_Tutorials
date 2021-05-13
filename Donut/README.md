@@ -1,7 +1,22 @@
-# Anvil tutorial from Blender Guru
+# Donut tutorial from Blender Guru
 
 Video [Link](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 ## Level one result
 
 ![](https://github.com/jons63/Blender_Tutorials/blob/main/Donut/Donut_1.png)
+
+
+## Blender tools used Level 2, Part 1
+
+| Name | Shortcut |
+| - | - |
+| Particles | Right menu |
+
+## Blender tools used Level 2, Part 2
+
+| Name | Shortcut |
+| - | - |
+| Shading | Screen layout, top menu |
+| Duplicate | Shift + D |
+| Object Origin | Left click menu |
