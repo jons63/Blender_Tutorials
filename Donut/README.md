@@ -24,3 +24,13 @@ Video [Link](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2M
 ## Level two result
 
 ![](https://github.com/jons63/Blender_Tutorials/blob/main/Donut/Donut_2.png)
+
+## Blender tools used Level 3, Part 1
+
+| Name | Shortcut |
+| - | - |
+| Solidify | Modifier |
+
+## Level three result
+
+![](https://github.com/jons63/Blender_Tutorials/blob/main/Donut/Coffee.png)
