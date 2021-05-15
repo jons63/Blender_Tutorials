@@ -20,3 +20,7 @@ Video [Link](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2M
 | Shading | Screen layout, top menu |
 | Duplicate | Shift + D |
 | Object Origin | Left click menu |
+
+## Level two result
+
+![](https://github.com/jons63/Blender_Tutorials/blob/main/Donut/Donut_2.png)
