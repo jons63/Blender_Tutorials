@@ -2,6 +2,10 @@
 
 Video [Link](https://www.youtube.com/watch?v=yi87Dap_WOc)
 
+# Final render
+
+![](https://github.com/jons63/Blender_Tutorials/blob/main/Anvil/Anvil_Render.png)
+
 ## Blender tools used part 1
 
 | Name | Shortcut |
@@ -30,4 +34,18 @@ Video [Link](https://www.youtube.com/watch?v=yi87Dap_WOc)
 
 ## Blender tools used part 3
 
+| Name | Shortcut |
+| - | - |
 | Inset | I |
+
+## Blender tools for "How to sculpt detail"
+
+| Name | Shortcut |
+| - | - |
+| Invert sculpting brush | ctrl |
+
+## Blender tools for "How to bake perfect normals"
+
+| Name | Shortcut |
+| - | - |
+| Move object to origin | Alt + G |
